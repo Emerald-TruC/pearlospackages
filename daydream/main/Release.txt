@@ -1,0 +1,15 @@
+Origin: pearlospackages
+Label: pearlos package repo
+Suite: daydream
+Version: 1.0
+Codename: daydream
+Date: Sat, 17 Sep 2023 12:00:00 UTC
+Architectures: amd64
+Components: main
+Description: A custom APT repository for my packages
+MD5Sum:
+ 226fa46eaa5909563e634080be823754 main/binary-amd64/discord.deb
+e277fb8533251ae8e9c68dc60b95d6a4 main/binary-amd64/google_chrome.deb
+SHA256:
+ 2fd801a72f6fc6898af105040fe2f5d25c678d2a79c754299ae847a020eaf5a3  main/binary-amd64/discord.deb
+f12d48b1533c572ab121c3dbae0f057627d661a0771f365f0a6dfd06ef530fb6  main/binary-amd64/google_chrome.deb
